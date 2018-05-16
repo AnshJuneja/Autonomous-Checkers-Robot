@@ -10,4 +10,4 @@ Order of Operations:
 3. Makes move using electromagnet
 4. Returns to start
 
-(Media/GIF1.gif)
+![autonomous-checkers-robot-main-screen](Media/GIF1.gif)
