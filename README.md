@@ -1,4 +1,4 @@
-# Autonomous-Checkers-Robot
+# Autonomous Checkers Robot
 
 A fully autonomous robot that plays checkers with a human opponent.
 Uses motors and sensors from the Lego Mindstorms kit, an electromagnet to grab pieces, and a wooden frame to house the moving parts.
@@ -10,3 +10,4 @@ Order of Operations:
 3. Makes move using electromagnet
 4. Returns to start
 
+(Media/GIF1.gif)
