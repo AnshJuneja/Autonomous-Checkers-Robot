@@ -11,3 +11,6 @@ Order of Operations:
 4. Returns to start
 
 ![autonomous-checkers-robot-main-screen](Media/GIF1.gif)
+![autonomous-checkers-robot-main-screen](Media/PIC1.gif)
+![autonomous-checkers-robot-main-screen](Media/PIC2.gif)
+![autonomous-checkers-robot-main-screen](Media/GIF2.gif)
